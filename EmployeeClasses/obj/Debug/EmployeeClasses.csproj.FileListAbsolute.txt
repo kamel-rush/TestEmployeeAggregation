@@ -1,0 +1,6 @@
+c:\users\kamel\documents\visual studio 2015\Projects\EmployeeClasses\EmployeeClasses\bin\Debug\EmployeeClasses.exe.config
+c:\users\kamel\documents\visual studio 2015\Projects\EmployeeClasses\EmployeeClasses\bin\Debug\EmployeeClasses.exe
+c:\users\kamel\documents\visual studio 2015\Projects\EmployeeClasses\EmployeeClasses\bin\Debug\EmployeeClasses.pdb
+c:\users\kamel\documents\visual studio 2015\Projects\EmployeeClasses\EmployeeClasses\obj\Debug\EmployeeClasses.csprojResolveAssemblyReference.cache
+c:\users\kamel\documents\visual studio 2015\Projects\EmployeeClasses\EmployeeClasses\obj\Debug\EmployeeClasses.exe
+c:\users\kamel\documents\visual studio 2015\Projects\EmployeeClasses\EmployeeClasses\obj\Debug\EmployeeClasses.pdb
